@@ -10,7 +10,7 @@ class Product:
     def __init__(self, window):
         # Initializations 
         self.wind = window
-        self.wind.title('Products Application')
+        self.wind.title('Products Application para aprender github')
 
         # Creating a Frame Container 
         frame = LabelFrame(self.wind, text = 'Register new Product')
